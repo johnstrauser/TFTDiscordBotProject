@@ -1,0 +1,17 @@
+pixel range
+
+
+gold (club tags)
+r:116-200
+g:70-170
+b:54-110
+
+orange (name who took screenshot)
+r:114-250
+g:130-190
+b:10-19
+
+white
+r:88-225
+g:136-230
+b:159-210
