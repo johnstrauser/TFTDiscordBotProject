@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "strausbot-test",
+  "private_key_id": "10232260ea71e46f2d16c65ea675577159d2a7bf",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC2gnL52aa8AY7G\nHGRpMSQyeMSG0F9bGi0S4kfNOYNhDO+pJ6Nt+NS/1U7eQ0ETxOIyUp3b/pSmd0PY\nuO5O0wArrlfTyh6rUlnVbaNcAnUQPd812yXTPYpHXn/Pvj65hBV3a6NiLtUMhP4Q\nELBvkG9kK26Dn58qT5pSLfJbmqBF46yvNrw/tXSs7/nt4m3/k0j2MrF24nWF6Q6q\nG9vkmnjkCJhEuhPaW+tMCHNrd5E0lhn7hHPoC53bDCjDngQtmapgX82a1Al9gHSH\n9u0L//g7+yaVmn2tk17OQdOw0aMXz/EPA90FB6lX+G7VGi+1J44XY1+4iJy2KAfG\nZ/z5blcpAgMBAAECggEAASxBxeZGrTL2B8Ll8vZxt5tRaVZhzn7oEZTVBktw0zOs\nlJyLGdP9YLA5E1zrnaS9xA9bhq7npfw35ObSApKrj8b34dtiKr1a6MVixTQaLCe2\n+AHNB+2qJlRD+QH4JY66Ppa5VD0Iec30U1vFbn9x9SWsTk89IXNP2BMF2YiFsCfy\nw5VCXzZ/cBwsKroR5YKSqvK0TQcHIQH2GYdZb4yNiEoXDxpMFTrMVzQqoZkKSm5H\nsz0Bk32mg5U9rVyQpx4uzB3V6SZbH54CSOcMbPt3KWKz/XYYR+uAkRxoy/VVcpW5\n2FURZPBVALv72XhuQe3w975ds0VWLtK/+wOH/iFxywKBgQD9B3p1wQsya6oNm4h8\ndOQtUXoksriOzby+VT3EQYCcLvKRL3V9JpZB/dLuo44UmnOM6sr5I4cQXjW2Lt21\nmNzsUM5eiS8TfxlYCFm7Yucpzq82ElBK4968lQHM3G1l/07eiQfqI53ObxivsEsc\nQsz9LkD3v6jt+4zsZc4+2cEMAwKBgQC4pwMdlYm/zwjExbI1EG0mrEuYlFmfYOTT\n7xYI6ICjXOAfrz0uix6Qr90T3eR9OkGsdX/zBQNifk26pgdQSxYlT+r4wKPiDYSm\nodr+YYoudESEuYnFxhbOoMyYFNgWpiAqS3t02hVM1qWlvmvCSMx/EdvubFcMitSQ\nu10OdlTmYwKBgEwg4eFn8Xx8FC//6bK4YKaZ6wv7kbe1guIpN2pC4vUa0vSHuOus\nnmzAd6RBJVBhn/537hXDcLGmBrcHpsEqet3G+jBLShStmux3prfQbAiSHPlBzVKa\n+Lr4ghAnCes0Q4CE7hKuIJ6pol3Jxu970b0jG3zu916S3rWJc+JJFeINAoGBAKwV\nWV30wo8yzqUy6MVzLYXhBAKKHovdrOOl6Q8cPuX/5A8jLQ13MWD9xDaDkDD0Xcfv\nKPK+NU1RD/dmS2KU12qmdACm5xQALSNtq71uAW0Rhdl7X94koZSnXoRMyKUy5L8F\n4WQg6cDWOUGhmKNTXOD/L8uew/E4YKkRM8QKm0ypAoGAMgRFQs0UEIWB4Z8xpQ98\nxKs0+YqsnMok6MnvKGO2YpzIORnJ8CfAbwp6+zBr6WLujA/rt7/m51Je4o80ayEC\nbz9+ijsJDwGxtxgv9AYpGU42nGOMRm//B+xg+fgEAonizv8r0B7L2AWIrKGa/Z5E\ngm9P7eVQax+y3wr9pjYMij8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "strausbot@strausbot-test.iam.gserviceaccount.com",
+  "client_id": "100777678957528951551",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/strausbot%40strausbot-test.iam.gserviceaccount.com"
+}
